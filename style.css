@@ -1,0 +1,17 @@
+body{
+    background-image: radial-gradient(circle, #986bc0, #8d6fc5, #8073ca, #7276ce, #627ad1, #5980d6, #5085da, #458bdd, #4495e3, #469fe9, #49a9ef, #4eb3f4);
+    font-family: 'New Tegomin', serif;
+    color: white;
+}
+.heading{
+    padding: 10px;
+    font-size: 35px;
+    color: white;
+    border: 5px double wheat ;
+    border-radius: 20px;
+    width: 70%;
+}
+#objects,#objectresult,#accuracyresult{
+    color: lightgreen;
+    font-size: 20px;
+}
